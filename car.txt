@@ -1,0 +1,7 @@
+mass = 900
+max_power = 350
+aero_drag_coef = 0.3
+mech_drag_coef = 0.02
+track_length = 1000
+cornering_speed = 60
+grip = 1.2
